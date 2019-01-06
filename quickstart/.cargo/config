@@ -1,0 +1,8 @@
+[build]
+target = "armv7r-none-eabi"
+
+[target.'cfg(all(target_arch = "arm", target_os = "none"))']
+runner = "arm-none-eabi-gdb -x openocd.gdb"
+rustflags = [
+  "-C", "link-arg=-Tlink.x",
+]

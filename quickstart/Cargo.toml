@@ -1,0 +1,9 @@
+[package]
+name = "quickstart"
+version = "0.1.0"
+authors = ["Jorge Aparicio <jorge@japaric.io>"]
+edition = "2018"
+
+[dependencies]
+panic-halt = "0.2.0"
+rt = { path = "../rt" }
