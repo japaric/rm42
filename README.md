@@ -24,7 +24,8 @@ Cortex-R4 Microcontrollers][AR]. SPNA163 - September 2012
 
 [AR]: http://www.ti.com/lit/an/spna163/spna163.pdf
 
-- [RM42x 16/32-Bit RISC Flash Microcontroller Technical Reference Manual][TRM]
+- [RM42x 16/32-Bit RISC Flash Microcontroller Technical Reference Manual][TRM].
+  SPNU516C - March 2018.
 
 [TRM]: http://www.ti.com/lit/ug/spnu516c/spnu516c.pdf
 
